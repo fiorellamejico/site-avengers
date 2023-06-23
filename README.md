@@ -5,6 +5,6 @@ primeiro contato com React e Sass
 
 Comandos:
 
-cd avengers
-npm install
-npm start
+- cd avengers
+- npm install
+- npm start
